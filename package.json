@@ -1,0 +1,28 @@
+{
+	"name": "rollup-plugin-moon",
+	"version": "1.0.0-alpha.1",
+	"description": "Rollup plugin for Moon",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kbrsh/rollup-plugin-moon.git"
+	},
+	"keywords": [
+		"moon",
+		"rollup",
+		"plugin",
+		"rollup-plugin"
+	],
+	"author": "Kabir Shah",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kbrsh/rollup-plugin-moon/issues"
+	},
+	"homepage": "https://github.com/kbrsh/rollup-plugin-moon#readme",
+	"peerDependencies": {
+		"moon-compiler": "*"
+	},
+	"dependencies": {
+		"rollup-pluginutils": "^2.8.1"
+	}
+}
